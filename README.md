@@ -1,4 +1,4 @@
-# Car-Rental-Optimization-Models-Operations-Research
+# Car Rental Optimization Models Operations Research
 This repository contains optimization models for solving the Car Rental problems described in "Model Building in Mathematical Programming" by H.P. Williams, specifically sections 12.25 (Car Rental 1) and 12.26 (Car Rental 2).
 
 ## Objectives
